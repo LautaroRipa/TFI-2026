@@ -22,6 +22,6 @@ Algoritmo SumaDeMatrices
             matRes[i,j] <- mat1[i,j] + mat2[i,j]
             Escribir Sin Saltar matRes[i,j], " "
         FinPara
-        Escribir "" // Salto de línea
+        Escribir "" // Salto de lÃ­nea
     FinPara
 FinAlgoritmo
