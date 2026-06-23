@@ -3,7 +3,7 @@ Integrantes del equipo
 - Jose Ignacio Aguirre 
 - Lautaro Ripa
 - Marcos Villagra
-- Aaron Romero
+
 ## Carrera 
 Tecnicatura Universitaria en Telecomunicaciones  
 ## Materia 
